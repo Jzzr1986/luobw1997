@@ -1,0 +1,2 @@
+mysql -uroot -pjzzr1986
+sudo mysql.server start
